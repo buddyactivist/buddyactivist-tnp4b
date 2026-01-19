@@ -1,10 +1,10 @@
 <?php
 /**
- * Plugin Name: TNP4B - The Newsletter Plugin for Buddypress groups
+ * Plugin Name: BuddyActivist The Newsletter Plugin for Buddypress & Buddyboss Groups 
  * Plugin URI: https://example.com/tnp4b
- * Description: Group-centric newsletters for BuddyPress/BuddyBoss via The Newsletter Plugin (TNP). Auto-creates lists per group, manages subscriptions, captures content via modular bridges, and sends daily digests. Ships with /languages and tnp4b.pot for translations.
- * Version: 1.1.2
- * Author: Marco Giustini <info@marcogiustini.info>
+ * Description: 
+ * Version: 1.0.0
+ * Author: BuddyActivist
  * License: GPLv2 or later
  * Requires at least: 5.8
  * Requires PHP: 7.4
