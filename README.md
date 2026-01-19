@@ -1,1 +1,1 @@
-# buddyactivist-tnp4bp
+# BuddyActivist The Newsletter Plugin for Buddypress & Buddyboss Groups 
